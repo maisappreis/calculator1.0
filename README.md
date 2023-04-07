@@ -3,7 +3,12 @@
 
 It's a small application to practice my JavaScript and React learning.
 
+<<<<<<< HEAD
 ![calculator image](https://user-images.githubusercontent.com/113925909/230682852-fac2ff46-efc4-40a6-8bae-7da90c23abd6.png)
+=======
+![calculator image](https://user-images.githubusercontent.com/113925909/230682287-c5d3b087-43bf-4333-ab02-05986185e0e9.png)
+
+>>>>>>> 9280dd2a38d81c7476e9402ec08eded5913a4d77
 
 
 ## 🛠️ Installation
