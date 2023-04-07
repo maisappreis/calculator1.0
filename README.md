@@ -5,7 +5,8 @@
 
 It's a small application to practice my JavaScript and React learning.
 
-![calculator image](https://live.staticflickr.com/65535/52214493058_24dcc2c75a_c.jpg)
+![calculator image](https://user-images.githubusercontent.com/113925909/230682287-c5d3b087-43bf-4333-ab02-05986185e0e9.png)
+
 
 
 ## Installation
