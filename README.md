@@ -1,16 +1,26 @@
-# calculator1.0
-## My little project practing JavaScript with React.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Just a regular calculator, similar to iPhone calculator, just to test my skills...
+# Calculator 1.0
+## A small project of a calculator with JavaScript and React framework.
+
+It's a small application to practice my JavaScript and React learning.
 
 ![calculator image](https://live.staticflickr.com/65535/52214493058_24dcc2c75a_c.jpg)
 
 
-## Available Scripts
+## Installation
+
+Install the dependencies:
+```
+npm install
+```
+
+# 🛠️ On development
 
 In the project directory, you can run:
-
-### `npm start`
+```
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -18,12 +28,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+```
+npm test
+```
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+```
+npm run build
+```
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -33,7 +47,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+```
+npm run eject
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
